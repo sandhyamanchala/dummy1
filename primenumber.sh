@@ -19,3 +19,4 @@ done
 done
 echo "$n is a prime number."
 #prime number
+#ABCDEFGH
