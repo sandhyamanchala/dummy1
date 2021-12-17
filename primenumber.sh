@@ -21,5 +21,6 @@ do
 done
 done
 echo "$n is a prime number."
-#prime number
+#prime numberlkjbygfy
+,jhvkhgvivivg
 #ABCDEFGH
