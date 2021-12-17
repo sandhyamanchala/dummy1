@@ -3,7 +3,6 @@
 
 #!/bin/bash
 #ABCDEFGH
-manupreeth
 dlkvbndvliugvyuvgewu
 echo -e "Enter Number : \c"
 read n
