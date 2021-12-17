@@ -3,11 +3,12 @@
 
 #!/bin/bash
 #ABCDEFGH
+manupreeth
 dlkvbndvliugvyuvgewu
 echo -e "Enter Number : \c"
 read n
 while [ $n -gt 2 ]
-dokjvitcdrsxdxgvhjblkjbyvxyreZyrediygbjiknkhgtydyreas
+do
 for((i=2; i<=$n/2; i++))
 do
   ans=$(( n%i ))
