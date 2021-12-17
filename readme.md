@@ -14,7 +14,7 @@ do
   if [ $ans -eq 0 ]
   then
     echo "$n is not a prime number."
-    exit 0
+    exit 0df;jlwenfepiufghewf08ewygfqwuei
     dlkvn;jwbhwierugew
     ewjbfew
   fi
