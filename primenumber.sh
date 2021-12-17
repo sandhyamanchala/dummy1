@@ -7,7 +7,7 @@ dlkvbndvliugvyuvgewu
 echo -e "Enter Number : \c"
 read n
 while [ $n -gt 2 ]
-do
+dokjvitcdrsxdxgvhjblkjbyvxyreZyrediygbjiknkhgtydyreas
 for((i=2; i<=$n/2; i++))
 do
   ans=$(( n%i ))
