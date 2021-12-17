@@ -14,6 +14,7 @@ do
     echo "$n is not a prime number."
     exit 0
   fi
+  ## prime number
 done
 done
 echo "$n is a prime number."
