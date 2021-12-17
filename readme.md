@@ -22,6 +22,7 @@ do
   ## prime number
 done
 done
+darlingsssssss
 echo "$n is a prime number."
 #prime numberlkjbygfy
 ,jhvkhgvivivg
