@@ -3,6 +3,7 @@
 
 #!/bin/bash
 #ABCDEFGH
+dlkvbndvliugvyuvgewu
 echo -e "Enter Number : \c"
 read n
 while [ $n -gt 2 ]
